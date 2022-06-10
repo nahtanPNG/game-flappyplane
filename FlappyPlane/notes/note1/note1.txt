@@ -1,0 +1,54 @@
+1 - Player
+	1.1 - Importando as sprites do avião -  FEITO
+	1.2 - Criar o objeto do player, dar a sprite do avião para ele e coloca-lo na room - FEITO
+	1.3 - Quando o  começar, o avião deve cair - FEITO
+	1.4 - Quando apertar espaço ele precisa subir. - FEITO
+	1.5 - Simulando a gravidade continua - FEITO
+	1.6 - Limitando a velocidade de queda do avião. - FEITO
+	1.7 - Reiniciando ao colidir com o obstáculo - FEITO
+	1.8 - Criar uma fumaça quando subir - FEITO
+	1.9 - Fazendo a fumaça crescer  - FEITO
+	1.10 - Fazendo a fumaça desaparecer - FEITO
+	1.11 - Reiniciar o jogo ao sair da tela - 
+	
+2 - Obstáculos
+	2.1 - Criar as spirtes das montanhas - FEITO
+	2.2 - Criar o objeto das montanhas - FEITO
+	2.3 - Ajustar o espaço entre as montanhas na room. - FEITO
+	2.4 - Movendo as montanhas para a esquerda. - FEITO
+	2.5 - Aumentando a dificuldade dependendo do level (+ velocidade) - FEITO
+	
+3 - Geração procedural dos obstáculos
+	3.1 - Criando um evento que repete - FEITO
+	3.2 - Criando as montanhas - FEITO
+	3.3 - Alterar a frequência da geração dos obstáculos - FEITO
+	3.4 - Alterar a posição da geração das montanhas - FEITO
+	3.5 - Ajustar o intervalo das montanhas ao level do jogo - FEITO
+	
+4 - Background
+	4.1 - Criando a sprite - FEITO
+	4.2 - Colocando movimento  - FEITO
+	4.3 - Aumentar a velocidade de acordo com o nivel - FEITO
+	4.4 - Criar o chão - FEITO
+	
+5 - Sistema de pontos
+	5.1 - Iniciando o sistema de pontos - FEITO
+	5.2 - ganhando pontos - FEITO
+	5.3 - Exibir os pontos - FEITO
+	5.4 - Multiplicar os pontos ganhos pelo level atual - FEITO
+
+6 - Sistema de level
+	6.1 - Iniciando o sistema de level - FEITO
+	6.2 - Ganhando level - FEITO
+	6.3 - Exibindo o level - FEITO
+	
+7 - Sons do jogo
+	7.1 - Importando os sons - FEITO
+	7.2 - tocar musica quando o jogo começar - FEITO
+	7.3 - Tocando o som de level up ao ganhar o level - FEITO
+	
+8 - Tela inicial do jogo
+	8.1 - Criando a room - FEITO
+	8.2 - Criando a sprite do menu de iniciar - FEITO
+	8.3 - Criando a animação da sprite - FEITO
+	8.4 - Inicindo o jogo quando apertar espaço - FEITO
